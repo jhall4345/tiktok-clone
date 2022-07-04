@@ -1,0 +1,16 @@
+{
+  "name": "tiktok-backend",
+  "version": "1.0.0",
+  "description": "Tiktok backend",
+  "main": "server.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "Jon Hall",
+  "license": "ISC",
+  "dependencies": {
+    "express-mongoose": "^0.1.0"
+  }
+}
